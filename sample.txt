@@ -1,26 +1,4 @@
-Hex, Description,                 Hex, Description, Currency
-20 ,  SPACE,
-21 ,  EXCLAMATION MARK ,  	    A1 , INVERTED EXCLAMATION MARK, Dollar
-22 ,  QUOTATION MARK   ,	      A2 , CENT SIGN, Dollar
-23 , NUMBER SIGN    ,		      A3  , POUND SIGN, Dollar
-24 , DOLLAR SIGN    ,		      A4   , CURRENCY SIGN, Dollar
-25 , PERCENT SIGN   ,		      A5    , YEN SIGN, Dollar
-26 , AMPERSAND      ,		      A6     , BROKEN BAR, Dollar
-27 , APOSTROPHE     ,	 	     A7      , SECTION SIGN, Dollar
-28 , LEFT PARENTHESIS    ,      A8 , DIAERESIS, Dollar
-29 , RIGHT PARENTHESIS   ,      A9 , COPYRIGHT SIGN, Dollar
-2A , ASTERISK            ,      AA , FEMININE ORDINAL INDICATOR, POUND
-2B , PLUS SIGN           ,      AB , LEFT-POINTING DOUBLE ANGLE QUOTATION MARK, POUND
-2C , COMMA               ,      AC , NOT SIGN, POUND
-2D , HYPHEN-MINUS        ,      AD , SOFT HYPHEN, POUND
-2E , FULL STOP    ,      	AE , REGISTERED SIGN, POUND
-2F , SOLIDUS      ,      	AF , OVERLINE, POUND
-30 , DIGIT ZERO   ,      	B0 , DEGREE SIGN, POUND
-31 , DIGIT ONE    ,     	 B1 , PLUS-MINUS SIGN, POUND
-32 , DIGIT TWO    ,      	B2 , SUPERSCRIPT TWO, POUND
-33 , DIGIT THREE  ,      	B3 , SUPERSCRIPT THREE, POUND
-34 , DIGIT FOUR   ,      	B4 , ACUTE ACCENT, POUND
-35 , DIGIT FIVE   ,      	B5 , MICRO SIGN, POUND
-36 , DIGIT SIX    ,      	B6 , PILCROW SIGN, POUND
-37 , DIGIT SEVEN  ,      	B7 , MIDDLE DOT, POUND
-38 , DIGIT EIGHT  ,    	 	 B8 , CEDILLA, POUND
+Name, IP, Product, Product Version, License, Connection, Current Protection, Next Protection, Last Command, Last Results, OS, OS version, MAC, USB Blocking, Firewire Blocking, Stealth Mode, Update Source, Auto Update, Keyboard, Power Profile, Power Settings, Standalone Key, Idle Minutes, Antivirus Last Run, Antivirus Last Scan, Antivirus Last Update
+DESKTOP A, 10.156.1.140, Smart Shield, 2.1.13.1277, ACTV, Not Connected, Protected, Protected, Restart, Success, Windows, Microsoft Windows, 34-23-87-60-07, Unblocked, Unblocked, Disabled, Smart Control, , Unblocked, default, Disabled, , 1, Not Scanning, , 1/1/001 
+DESKTOP B, 10.156.1.208, Smart Shield, 2.1.13.1277, ACTV, Connected, Protected, Not Protected, Shutdown, Success, Windows, Microsoft Windows, 34-23-87-60-07, Unblocked, Unblocked, Enabled, Smart Control, , Unblocked, default, Enabled, , 1, Not Scanning, , 1/1/001 
+DESKTOP C, 10.156.1.21, Smart Shield, 2.1.13.1277, ACTV, Not Connected, Not Protected, Protected, Restart, Error, Windows, Microsoft Windows, 34-23-87-60-07, Unblocked, Unblocked, Disabled, Smart Control, , Unblocked, default, Enabled, , 1, Not Scanning, , 1/1/001 
